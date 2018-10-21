@@ -29,4 +29,4 @@ PyMongo Package
 3. map_reduce.py
 4. indexing.py
 
-Each of the above scripts would load the sample data from a CSV file into MongoDB (if not already loaded)
+Each of the above scripts would load the sample data from a CSV file into MongoDB (if not already loaded) and run the examples.
